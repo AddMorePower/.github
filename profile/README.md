@@ -14,8 +14,8 @@ The AddMorePower project has received funding from the European Union’s Horizo
 - Start date: 2023-01-01
 - End date: 2026-31-12
 - Duration: 48 months
-- Project cost: € 5.995.526,25
-- Project funding: € 5.995.526,25
+- Project cost: € 5 995 526.25
+- Project funding: € 5 995 526.25
 - Programme type: Horizon Europe
 - Programme acronym: HORIZON-CL4-2022-RESILIENCE-01-19
 
